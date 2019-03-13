@@ -1,0 +1,11 @@
+ body{ 
+    font-family: Helvetica;
+    font-style: italic;
+    font-size: large;
+    font-weight: lighter;
+    height: 1500px;
+    background-color: #ffb3ff;
+      }
+ carousel-inner img {
+	    width: 100%; 
+	}
